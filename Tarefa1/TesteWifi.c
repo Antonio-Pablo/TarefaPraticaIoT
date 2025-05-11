@@ -3,8 +3,8 @@
 #include "lwip/apps/httpd.h"
 #include "lwip/tcp.h"
 #include "lwip/ip_addr.h"
-#define WIFI_SSID "T.I"
-#define WIFI_PASS "hsc!@2025#"
+#define WIFI_SSID "PABLO"
+#define WIFI_PASS "mcgapi170384"
 
 #define BUTTON1_PIN 5
 #define BUTTON2_PIN 6
